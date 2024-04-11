@@ -1,1 +1,1 @@
-# .github
+# [MyStartup](https://mystartup.fund)
